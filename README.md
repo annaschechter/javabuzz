@@ -1,0 +1,1 @@
+This exercise is an introduction to JavaScript and Jasmime. In this exercise we are building the FizzBuzz game which we called JavaBuzz since it is built in JavaScript and tested with Jasmine.
